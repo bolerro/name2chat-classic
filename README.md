@@ -1,6 +1,6 @@
-This is the Fork of the Addon Incognito, because to Addon was not updated for a long Time. I'd tryed to contact the former Author, but never get an answer.
+This is an updated version of Name2Chat for Classic WoW. Nothing has been changed except for specifying it is for Classic.
  
-Name2Chat adds you name in front of your chat messages. Can be enabled for guild (and officer), party and raid chat messages. 
+Name2Chat adds your name in front of your chat messages when playing Alts. Can be enabled for guild (and officer), party and raid chat messages. 
  
 E.g.:
 [Guild] [Yourchar]: Some chat message
