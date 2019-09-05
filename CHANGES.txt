@@ -1,0 +1,10 @@
+lightweight tag f9946df6daa050ddcd3e3f665a83256c2600d125 2.0.3
+Author:	Torsten Widmann <info@goover.de>
+Date:	Sun Jul 29 11:48:28 2018 +0200
+
+commit f9946df6daa050ddcd3e3f665a83256c2600d125
+Author: Torsten Widmann <info@goover.de>
+Date:   Sun Jul 29 11:48:28 2018 +0200
+
+    Fix for Guildchat
+

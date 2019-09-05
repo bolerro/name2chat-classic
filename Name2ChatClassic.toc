@@ -1,0 +1,14 @@
+## Interface: 11300
+## Title: Name2Chat (Classic)
+## Notes: Adds your mains name to your alts chat messages
+## Author: Chad Rice (Bolerro)
+## Version: 1.0.0
+## SavedVariables: Name2ChatClassicDB
+## OptionalDeps: Ace3
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+locale.xml
+Name2ChatClasssic.lua
